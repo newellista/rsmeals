@@ -1,0 +1,47 @@
+= Two types of signups.
+
+  1. Single meal for large number of people (Funeral, Ward Party, etc.)
+  2. 1 or more meals for a single family
+
+== Single Meal for Group
+
+The Administrator should be able to specify a menu and choose the number of different items needed.  For example:
+
+   * 10 Jello Salads
+   * 12 Funeral Potatoes
+   * 2 dozen rolls
+   * 15 Desserts
+   
+Each meal should have a date and time that the food is required, a location for the meal, a title or family name and a short description.
+
+When a user receives a url for a specific meal, they will be presented with the menu and allowed to choose which item they would like to provide.
+
+The admin should also be able to specify:
+
+   * # people needed for Kitchen help and time needed
+   * # people needed for cleanup and time needed
+
+Should be an option for the people who signup to request a reminder/confirmation email.
+
+== Single Family Meal
+
+The administrator should be able to specify:
+
+   * Who the meal is for
+   * # people the meal is for
+   * Date and time meal should be delivered
+   * Brief note
+When a user chooses to participate, they should be able to either: volunteer to provide the entire meal, or work with a partner to provide the meal.  A meal will typically consist of a main course, one or more side dishes and a dessert.
+
+== Administrative Options
+
+   * Use lds.org authentication if possible
+   * Admin should be able to create/manage email groups
+   * When a Meal is scheduled, admin should be able to send email invitations to saved groups or ad hoc groups
+   * Users will be required to register before they can receive emails or accept invitations
+   * Meals will be saved for future review
+   * New meals can be created from a template?
+   * Meals can be automatically created based on # of expected people
+
+
+
